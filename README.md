@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Rodrigo</h1></summary>
+    <summary><h1 style="display: inline-block">Hello 👋, I'm Rodrigo</h1></summary>
   </ul>
 </div>
 
@@ -25,7 +25,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on *AWS, React, React Native, Nodejs, MongoDB*
+- 🔭 I’m currently working on *AWS, Java, SpringBoot, Oracle, MongoDB*
 
 - 🌱 I’m currently learning *to put together multiple Hyper Beast Stack for Scalable Applications.*
 
@@ -33,7 +33,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
-- 💬 Ask me about *AWS, react, react-native, nodejs, mongoDB*
+- 💬 Ask me about *AWS, Java, SpringBoot, Oracle, MongoDB*
 
 - 📫 Feel free to reach me out *nishantjangid6377@gmail.com*
 
