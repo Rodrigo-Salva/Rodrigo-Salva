@@ -69,8 +69,11 @@ Construyendo un CRM educativo con IA sobre arquitectura de microservicios (Sprin
 ## 📊 STREAM STATS
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Salva&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9146FF&icon_color=FF0000&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Salva&layout=compact&hide_border=true&bg_color=0D1117&title_color=9146FF&text_color=c9d1d9" height="165"/>
+
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rodrigo-Salva&label=Public%20Repos&query=$.public_repos&color=9146FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Rodrigo-Salva?label=Followers&style=for-the-badge&color=9146FF)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Rodrigo-Salva&label=Since&query=$.created_at&color=FF0000&style=for-the-badge)
+
 </div>
 
 <div align="center">
