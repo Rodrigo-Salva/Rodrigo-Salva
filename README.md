@@ -27,7 +27,7 @@
 <td width="50%" valign="top">
 
 ### 🔴 LIVE NOW
-**Practicante Pre Profesional @ Navegap SAC**
+**Backend Developer Intern**
 Construyendo un CRM educativo con IA sobre arquitectura de microservicios (Spring Boot + Express.js + Nuxt.js). Pipelines CI/CD con GitLab.
 
 </td>
@@ -74,7 +74,7 @@ Construyendo un CRM educativo con IA sobre arquitectura de microservicios (Sprin
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrigo-Salva&hide_border=true&background=0D1117&ring=9146FF&fire=FF0000&currStreakLabel=c9d1d9" />
+<img src="https://streak-stats.demolab.com/?user=Rodrigo-Salva&hide_border=true&background=0D1117&ring=9146FF&fire=FF0000&currStreakLabel=c9d1d9" />
 </div>
 
 <div align="center">
@@ -87,18 +87,12 @@ Construyendo un CRM educativo con IA sobre arquitectura de microservicios (Sprin
 
 <div align="center">
 
-<a href="https://github.com/Rodrigo-Salva/court-reservation-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Salva&repo=court-reservation-api&theme=dark&bg_color=0D1117&title_color=9146FF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Rodrigo-Salva/challenge-Alura-foro-hub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Salva&repo=challenge-Alura-foro-hub&theme=dark&bg_color=0D1117&title_color=9146FF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Rodrigo-Salva/bodegaflow-backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Salva&repo=bodegaflow-backend&theme=dark&bg_color=0D1117&title_color=9146FF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/Rodrigo-Salva/Api-biblioteca-backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rodrigo-Salva&repo=Api-biblioteca-backend&theme=dark&bg_color=0D1117&title_color=9146FF&text_color=c9d1d9" />
-</a>
+| 🎬 Repo | Stack | Sinopsis |
+|---|---|---|
+| 🏟️ [**court-reservation-api**](https://github.com/Rodrigo-Salva/court-reservation-api) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | Sistema de reservas para canchas deportivas con funcionalidades avanzadas |
+| 💬 [**challenge-Alura-foro-hub**](https://github.com/Rodrigo-Salva/challenge-Alura-foro-hub) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) | Foro con gestión de usuarios, temas y mensajes vía API REST |
+| 📦 [**bodegaflow-backend**](https://github.com/Rodrigo-Salva/bodegaflow-backend) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) | Gestión integral de bodegas: inventario, ventas, compras y catálogo |
+| 📚 [**Api-biblioteca-backend**](https://github.com/Rodrigo-Salva/Api-biblioteca-backend) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | API de gestión bibliotecaria: usuarios, libros, autores y categorías |
 
 </div>
 
