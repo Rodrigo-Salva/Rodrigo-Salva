@@ -77,7 +77,7 @@ Construyendo un CRM educativo con IA sobre arquitectura de microservicios (Sprin
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Rodrigo-Salva&hide_border=true&background=0D1117&ring=9146FF&fire=FF0000&currStreakLabel=c9d1d9&disable_animations=true" />
+<img src="https://streak-stats.demolab.com/?user=Rodrigo-Salva&hide_border=true&background=0D1117&ring=9146FF&fire=FF0000&currStreakLabel=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&disable_animations=true" />
 </div>
 
 ---
