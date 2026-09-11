@@ -86,12 +86,26 @@ Construyendo un CRM educativo con IA sobre arquitectura de microservicios (Sprin
 
 <div align="center">
 
-| 🎬 Repo | Stack | Sinopsis |
-|---|---|---|
-| 🏟️ [**court-reservation-api**](https://github.com/Rodrigo-Salva/court-reservation-api) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | Sistema de reservas para canchas deportivas con funcionalidades avanzadas |
-| 💬 [**challenge-Alura-foro-hub**](https://github.com/Rodrigo-Salva/challenge-Alura-foro-hub) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) | Foro con gestión de usuarios, temas y mensajes vía API REST |
-| 📦 [**bodegaflow-backend**](https://github.com/Rodrigo-Salva/bodegaflow-backend) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) | Gestión integral de bodegas: inventario, ventas, compras y catálogo |
-| 📚 [**Api-biblioteca-backend**](https://github.com/Rodrigo-Salva/Api-biblioteca-backend) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | API de gestión bibliotecaria: usuarios, libros, autores y categorías |
+**☕ Java · Spring Boot**
+
+| Repo | Sinopsis |
+|---|---|
+| 🏟️ [**court-reservation-api**](https://github.com/Rodrigo-Salva/court-reservation-api) | Sistema de reservas para canchas deportivas — Spring Boot 3.2.1 + Java 21, funcionalidades avanzadas |
+| 💬 [**challenge-Alura-foro-hub**](https://github.com/Rodrigo-Salva/challenge-Alura-foro-hub) | Foro con gestión de usuarios, temas y mensajes vía API REST — Spring Boot + Maven |
+
+**🐍 Python · Django**
+
+| Repo | Sinopsis |
+|---|---|
+| 📦 [**bodegaflow-backend**](https://github.com/Rodrigo-Salva/bodegaflow-backend) | Gestión integral de bodegas: inventario, ventas, compras y catálogo |
+| 🏫 [**Proyect-ieee-backend**](https://github.com/Rodrigo-Salva/Proyect-ieee-backend) | API central del proyecto IEEE — autenticación JWT, gestión de usuarios y contenidos |
+| ✈️ [**travel-agency-back**](https://github.com/Rodrigo-Salva/travel-agency-back) | Backend para agencia de viajes con Django REST Framework |
+
+**🐘 PHP · Laravel**
+
+| Repo | Sinopsis |
+|---|---|
+| 📚 [**Api-biblioteca-backend**](https://github.com/Rodrigo-Salva/Api-biblioteca-backend) | API de gestión bibliotecaria: usuarios, libros, autores y categorías — Laravel + Sanctum |
 
 </div>
 
